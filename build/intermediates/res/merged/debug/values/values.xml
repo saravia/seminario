@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="mac_addresses">
+        <item>ALL</item>
+        <item>00:1d:7d:49:2e:4e</item>
+        <item>00:1d:7d:49:2e:XX</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue">#0099CC</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="IP">IP</string>
+    <string name="IP_ADDRESS_NODE">192.168.1.x</string>
+    <string name="RadioButton1">No output</string>
+    <string name="RadioButton2">Only Video</string>
+    <string name="RadioButton3">Only Log File</string>
+    <string name="RadioButton4">Both</string>
+    <string name="Status">Status</string>
+    <string name="_192_168_2_">192.168.1.</string>
+    <string name="_4000">4000</string>
+    <string name="accelx">accX</string>
+    <string name="accely">accY</string>
+    <string name="accelz">accZ</string>
+    <string name="action_iperf">IPERF</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CARMEN Testbed</string>
+    <string name="button_chart">Stop Chart2</string>
+    <string name="button_move">Move</string>
+    <string name="carmen_port_label">CARMEN port</string>
+    <string name="close">CLOSE</string>
+    <string name="command">Command</string>
+    <string name="datas">datas</string>
+    <string name="defaultDevice">wlan1</string>
+    <string name="defaultI">5</string>
+    <string name="defaultPhy">phy1</string>
+    <string name="defaultPort">4000</string>
+    <string name="defaultSleep">1000</string>
+    <string name="defaultT">200</string>
+    <string name="defaultUrl">192.168.1.120</string>
+    <string name="dir_name_label"> LOG FOLDER</string>
+    <string name="dummy_button">Flush Iptables</string>
+    <string name="dummy_content">DURIP NODES</string>
+    <string name="durip_essid">"ESSID"</string>
+    <string name="durip_port">Durip Port</string>
+    <string name="empty"/>
+    <string name="experiment_manager">Experiment Manager</string>
+    <string name="flow">Complete</string>
+    <string name="flow3">Graph1</string>
+    <string name="flush_button">Flush Iptables</string>
+    <string name="getBatteryStatus">Battery</string>
+    <string name="gravity">GRAVITY</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hosts">"Hosts"</string>
+    <string name="i">i</string>
+    <string name="ip_network_label">Set Device IP</string>
+    <string name="ip_rx_label">IP receiver</string>
+    <string name="iperf">"IperfClient"</string>
+    <string name="iperf_interval_label">iperf interval</string>
+    <string name="iperf_ping_label">IPERF and PING parameters</string>
+    <string name="iperf_time_label">Time iperf</string>
+    <string name="l_acceleration">L. ACCELERATION</string>
+    <string name="label_radioPlot0">New </string>
+    <string name="label_radioPlot1">Current </string>
+    <string name="launcher_text">Launcher</string>
+    <string name="mac_detected_label">MAC</string>
+    <string name="mac_graph_text">MAC Graph</string>
+    <string name="milcom">"COGNET_DEI"</string>
+    <string name="net_stat_label">Net status</string>
+    <string name="netmask_label">255.255.255.0</string>
+    <string name="network_setup_label">Network setup</string>
+    <string name="notverbose">0</string>
+    <string name="olsr_log_value">OLSR LOG FILE</string>
+    <string name="olsrdsettings">"OLSRD Settings"</string>
+    <string name="phy1">phy1</string>
+    <string name="phy_label">phy to use</string>
+    <string name="ping">"ip or host"</string>
+    <string name="ping_label">Ping IP</string>
+    <string name="plotNr">Graph %1d</string>
+    <string name="port">Port</string>
+    <string name="radiantx">radX</string>
+    <string name="radianty">radY</string>
+    <string name="radiantz">radZ</string>
+    <string name="result">Result</string>
+    <string name="results">d</string>
+    <string name="rotation">ROTATION</string>
+    <string name="sample">NetGraphs</string>
+    <string name="sampletime_value">1</string>
+    <string name="sampling_time_label">TS MAC [ms]</string>
+    <string name="sampling_time_value">1000</string>
+    <string name="sensor">Sensors</string>
+    <string name="setup">SETUP</string>
+    <string name="sleep">Sleep</string>
+    <string name="ssid_label">SSID</string>
+    <string name="start">START</string>
+    <string name="start_exp_label">Start experiment</string>
+    <string name="start_experiment">Start Experiment</string>
+    <string name="staticcommand">ping www.google.com</string>
+    <string name="stealth_button">Stealth mode</string>
+    <string name="subnet_label">192.168.1.0</string>
+    <string name="t">t</string>
+    <string name="tcp_graph_text">TCP Graph</string>
+    <string name="time_sample_olsrd_label">TS log OLSR</string>
+    <string name="title_activity_battery_charts">BatteryCharts</string>
+    <string name="title_activity_data_flow">Graph</string>
+    <string name="title_activity_device_switch">DeviceSwitch</string>
+    <string name="title_activity_experiment_master">ExperimentMasterActivity</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_mac">MACActivity</string>
+    <string name="title_activity_olsrd_settings">OlsrdSettings</string>
+    <string name="title_activity_sensor_charts">SensorCharts</string>
+    <string name="title_activity_sensor_plot">Sensor</string>
+    <string name="title_activity_tcp">TCPActivity</string>
+    <string name="title_label">NETWORK MANAGER</string>
+    <string name="update_mac_label">Update MAC</string>
+    <string name="user">User</string>
+    <string name="verbose">1</string>
+    <string name="verbosity">verbose</string>
+    <string name="wlan_2_use_label">wlan to use</string>
+    <string name="wlan_label">wlan1</string>
+    <string name="x_m_s_2">X m/s^2</string>
+    <string name="y_m_s_2">Y m/s^2</string>
+    <string name="z_m_s_2">Z m/s^2</string>
+    <!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+</resources>

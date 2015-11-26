@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\libs\androidplot-core-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fef4e69041e030b908011c103cde8d2b6e0e938">
+        <dex dex="C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\build\intermediates\pre-dexed\debug\androidplot-core-0.5.2-661284dd7eb0cc9104f3d43bcd3b8a9bdc67c75a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\build\intermediates\pre-dexed\debug\android-support-v4-b7b4769da8566eae4cdc4f0661f3d72b5c13d8f4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" /><!-- From: file:/C:/Users/Juan/Downloads/COGNET_CODE-master/COGNET_APP/res/layout/activity_tcp.xml -->
