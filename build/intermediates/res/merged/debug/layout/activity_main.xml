@@ -490,7 +490,7 @@
     <NumberPicker
         android:id="@+id/numberpickerSensor"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"        
+        android:layout_height="wrap_content"
         android:layout_below="@+id/radioGroup1"
         android:layout_toRightOf="@+id/spinnerSensor"
         android:orientation="horizontal"

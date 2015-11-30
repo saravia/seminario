@@ -54,7 +54,7 @@ ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest
 	android:label
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:25:9-41
 	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:27:9-43
+		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:27:9-44
 	android:debuggable
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:23:9-34
 	android:allowBackup
@@ -67,8 +67,6 @@ activity#it.durip_app.MainActivity
 ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:29:9-39:20
 	android:label
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:32:13-45
-	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:33:13-47
 	android:configChanges
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:31:13-63
 	android:name
@@ -89,8 +87,6 @@ ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:44:13-57
 	android:parentActivityName
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:45:13-67
-	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:46:13-47
 	android:name
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:43:13-54
 meta-data#android.support.PARENT_ACTIVITY
@@ -105,8 +101,6 @@ ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:53:13-61
 	android:parentActivityName
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:54:13-67
-	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:55:13-47
 	android:name
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:52:13-49
 activity#it.durip_app.SensorPlot
@@ -229,8 +223,6 @@ ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:155:13-50
 	android:label
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:154:13-65
-	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:156:13-47
 	android:name
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:153:13-53
 activity#it.durip_app.BatteryCharts
@@ -239,7 +231,5 @@ ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:161:17-54
 	android:label
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:160:14-67
-	android:hardwareAccelerated
-		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:162:13-47
 	android:name
 		ADDED from C:\Users\Juan\Downloads\COGNET_CODE-master\COGNET_APP\AndroidManifest.xml:159:19-60
